@@ -7,10 +7,10 @@ I'm a Student from BINUS University Enrolled in the Computer Science program, Cu
 - 📱 Kotlin with Android Studio
 
 ## My Projects
-| Pong  | 
-| :-------------: |
-|![output1](https://github.com/user-attachments/assets/aee9d974-582c-463d-b0cd-8e281e4b1bec)| 
-| A simple pong game | 
+| Pong  | The Unknown |
+| :-------------: | :-------------: |
+|![Pong](https://github.com/user-attachments/assets/aee9d974-582c-463d-b0cd-8e281e4b1bec)| |
+| A simple pong game | A Simple 2D Sidescroller |
 
 
 <!--
