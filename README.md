@@ -2,13 +2,13 @@
 
 I'm a Student from BINUS University Enrolled in the Computer Science program, Currently focusing in Game Application and Technology.
 
-## I'm currently trying to learn
+### I'm currently trying to learn
 - 🎮 C# with Unity
 - 📱 Kotlin with Android Studio
 
 ## My Projects
 | Pong  | 
-| ------------- | ------------- |
+| :-------------: |
 |![output1](https://github.com/user-attachments/assets/aee9d974-582c-463d-b0cd-8e281e4b1bec)| 
 | A simple pong game | 
 
