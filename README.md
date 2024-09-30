@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Raihan ##
 
+I'm a Student from BINUS University Currently Enrolled in the Computer Science program.
+- 🌱 I’m currently learning C#, Kotlin, Unity
+  
 <!--
 **Reyanzhr/Reyanzhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
