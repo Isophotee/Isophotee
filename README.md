@@ -1,16 +1,35 @@
-## Hi there 👋 I'm Raihan 
+Hello There 👋
+--- 
+**📌About** <br>
+Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS University Enrolled in the Computer Science program, Currently focusing in Game Application and Technology.
 
-I'm a Student from BINUS University Enrolled in the Computer Science program, Currently focusing in Game Application and Technology.
-
-### I'm currently trying to learn
+**✏️ I'm currently trying to learn**<br>
 - 🎮 C# with Unity
-- 📱 Kotlin with Android Studio
 
-## My Projects
-| Pong  | The Unknown |
-| :-------------: | :-------------: |
-|![Pong](https://github.com/user-attachments/assets/aee9d974-582c-463d-b0cd-8e281e4b1bec)| |
-| A simple pong game | A Simple 2D Sidescroller |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Simple Pong</a></th> <!--tittle-->
+      </tr>
+      </thead>
+      <tbody>
+        <tr>
+        <td align="center">
+            <img src="https://github.com/user-attachments/assets/aee9d974-582c-463d-b0cd-8e281e4b1bec" alt="1" style="width:100%;height:auto;">
+        </td>
+    </tr>
+     <tr>
+      <td valign="text-top">A Simple 2D Pong based game made with the Unity engine.</td> <!--desc-->
+      </tr>
+  </tbody>
+</table>
+
+**What I usually use to make things** <br>
+- Unity
+- Visual Studio
+- Visual Studio Code
+- Figma
+- Paint.net
 
 
 <!--
