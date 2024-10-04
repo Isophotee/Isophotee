@@ -3,8 +3,9 @@ Hello There 👋
 **📌About** <br>
 Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS University Enrolled in the Computer Science program, Currently focusing in Game Application and Technology.
 
-**✏️ I'm currently trying to learn**<br>
-- 🎮 C# with Unity
+### ✏️ I'm currently trying to learn:
+- Unity for Game Development
+- C# to make scripts for said games
 
 <table width="100%">
   <thead>
@@ -24,7 +25,7 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS Un
   </tbody>
 </table>
 
-**What I usually use to make things** <br>
+### 🔨 The Tools I use on and off:
 - Unity
 - Visual Studio
 - Visual Studio Code
