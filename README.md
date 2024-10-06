@@ -12,6 +12,7 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS Un
   <thead>
     <tr>
       <th width="50%" align="center"><a>Simple Pong</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>The Knight's Journey (WIP)</a></th> 
       </tr>
       </thead>
       <tbody>
@@ -19,9 +20,13 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS Un
         <td align="center">
             <img src="https://github.com/user-attachments/assets/aee9d974-582c-463d-b0cd-8e281e4b1bec" alt="1" style="width:100%;height:auto;">
         </td>
+          <td align="center">
+            <img src="https://github.com/user-attachments/assets/9d7fdff5-b74c-425f-919e-4b9964a46e37"alt="1" style="width:100%;height:auto;">
+        </td>
     </tr>
      <tr>
-      <td valign="text-top">A Simple 2D Pong based game made with the Unity engine.</td> <!--desc-->
+      <td valign="text-top">A Simple 2D Pong based game made with the Unity engine.</td>
+       <td valign="text-top">A 2D Side Scroller made with the Unity engine.</td> <!--desc-->
       </tr>
   </tbody>
 </table>
