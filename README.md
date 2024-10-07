@@ -29,8 +29,8 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS Un
        <td valign="text-top">A 2D Side Scroller made with the Unity engine.</td> <!--desc-->
       </tr>
         <tr>
-      <td align="center"><a href="https://github.com/Isophotee/2D-Pong-">Project Files</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Isophotee/2D-Side-Scroll">Project Files</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Isophotee/2D-Pong-">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Isophotee/2D-Side-Scroll">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
