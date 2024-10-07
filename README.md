@@ -28,6 +28,10 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS Un
       <td valign="text-top">A Simple 2D Pong based game made with the Unity engine.</td>
        <td valign="text-top">A 2D Side Scroller made with the Unity engine.</td> <!--desc-->
       </tr>
+        <tr>
+      <td align="center"><a href="https://github.com/Isophotee/2D-Pong-">Project Files</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Isophotee/2D-Side-Scroll">Project Files</a></td> <!--link2-->
+    </tr>
   </tbody>
 </table>
 
@@ -38,6 +42,9 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS Un
 - Figma
 - Paint.net
 
+### Contact me:
+- raihanzuhair21@gmail.com
+- muhammad.aryamehr@binus.ac.id
 
 <!--
 **Reyanzhr/Reyanzhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
