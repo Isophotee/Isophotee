@@ -29,8 +29,8 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and an Undergraduate Studen
        <td valign="text-top">A 2D Side Scroller made with the Unity engine.</td> <!--desc-->
       </tr>
         <tr>
-      <td align="center"><a href="https://github.com/Isophotee/2D-Pong-">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Isophotee/2D-Side-Scroll">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Isophotee/2D-Pong-">More Info</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Isophotee/2D-Side-Scroll">More Info</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -55,8 +55,8 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and an Undergraduate Studen
        <td valign="text-top">A 2D Top down Styled game where you manage robots to run your store</td> <!--desc-->
       </tr>
         <tr>
-      <td align="center"><a href="https://github.com/Efrennnn/SoftwareE">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/Isophotee/2D-Side-Scroll">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Efrennnn/SoftwareE">More Info</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/Isophotee/2D-Side-Scroll">More Info</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
