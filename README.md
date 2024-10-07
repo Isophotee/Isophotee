@@ -1,7 +1,7 @@
 Hello There 👋
 --- 
 **📌About** <br>
-Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS University Enrolled in the Computer Science program, Currently focusing in Game Application and Technology.
+Hello, I'm Raihan Zuhair, I'm a High School Graduate and an Undergraduate Student from BINUS University Enrolled in the Computer Science program, Currently focusing in Game Application and Technology.
 
 ### ✏️ I'm currently trying to learn:
 - Unity for Game Development
