@@ -35,6 +35,27 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and a Student from BINUS Un
   </tbody>
 </table>
 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Wild Rescue</a></th> <!--tittle--></th> 
+      </tr>
+      </thead>
+      <tbody>
+        <tr>
+        <td align="center">
+            <img src="https://github.com/user-attachments/assets/aee9d974-582c-463d-b0cd-8e281e4b1bec" alt="1" style="width:100%;height:auto;">
+        </td>
+    </tr>
+     <tr>
+      <td valign="text-top">A Top down styled shooter game where you play as a ranger to rescue endangered animals.</td>
+      </tr>
+        <tr>
+      <td align="center"><a href="https://github.com/Isophotee/2D-Pong-">Read More</a></td> <!--link1-->
+    </tr>
+  </tbody>
+</table>
+
 ### 🔨 The Tools I use on and off:
 - Unity
 - Visual Studio
