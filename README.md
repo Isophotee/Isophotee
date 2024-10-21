@@ -67,6 +67,7 @@ Hello, I'm Raihan Zuhair, I'm a High School Graduate and an Undergraduate Studen
 - Visual Studio Code
 - Figma
 - Paint.net
+- Blender
 
 ### Contact me:
 - raihanzuhair21@gmail.com
