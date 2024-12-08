@@ -29,7 +29,7 @@ Here are some of the projects I've built while learning:
         <img src="https://github.com/user-attachments/assets/aee9d974-582c-463d-b0cd-8e281e4b1bec" alt="Simple Pong" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/9d7fdff5-b74c-425f-919e-4b9964a46e37" alt="The Knight's Journey" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/7bf209fb-bf18-4b7c-ab98-ccd689c0c825" alt="The Knight's Journey" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
