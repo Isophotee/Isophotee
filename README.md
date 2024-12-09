@@ -55,7 +55,7 @@ Here are some of the projects I've built while learning:
   <thead>
     <tr>
       <th width="50%" align="center">Wild Rescue</th>
-      <th width="50%" align="center">Ruin Explorer</th>
+      <th width="50%" align="center">Market Manager</th>
     </tr>
   </thead>
   <tbody>
