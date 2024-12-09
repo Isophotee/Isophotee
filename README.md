@@ -55,7 +55,7 @@ Here are some of the projects I've built while learning:
   <thead>
     <tr>
       <th width="50%" align="center">Wild Rescue</th>
-      <th width="50%" align="center">Placeholder Project</th>
+      <th width="50%" align="center">Ruin Explorer</th>
     </tr>
   </thead>
   <tbody>
@@ -64,7 +64,7 @@ Here are some of the projects I've built while learning:
         <img src="https://github.com/user-attachments/assets/65b92c09-dbc0-4563-8d89-622ff66b24e5" alt="Wild Rescue" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/600x400" alt="Placeholder Project" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/a2e27ae5-788a-465c-8d96-7893bb115b8b" alt="Market Manager" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ Here are some of the projects I've built while learning:
         A top-down shooter game where you rescue animals by tracking them down and putting them to sleep with darts.
       </td>
       <td align="center">
-        Description of your next project or placeholder text.
+        You manage a store run by bots
       </td>
     </tr>
     <tr>
