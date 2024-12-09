@@ -72,7 +72,7 @@ Here are some of the projects I've built while learning:
         A top-down shooter game where you rescue animals by tracking them down and putting them to sleep with darts.
       </td>
       <td align="center">
-        You manage a store run by bots
+        I helped design a game where you manage a store run by bots.
       </td>
     </tr>
     <tr>
