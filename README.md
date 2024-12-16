@@ -80,7 +80,7 @@ Here are some of the projects I've built while learning:
         <a href="https://github.com/Efrennnn/SoftwareE">More Info</a>
       </td>
       <td align="center">
-        <a href="#">More Info</a>
+        <a href="">More Info</a>
       </td>
     </tr>
   </tbody>
