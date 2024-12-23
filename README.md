@@ -77,7 +77,7 @@ Here are some of the projects I've built while learning:
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/Efrennnn/SoftwareE">More Info</a>
+        <a href="https://github.com/PalTzu/WildRescue">More Info</a>
       </td>
       <td align="center">
         <a href="">More Info</a>
@@ -95,6 +95,7 @@ Here are some of the projects I've built while learning:
 - **Figma**
 - **Paint.net**
 - **Blender**
+- 
 
 ---
 
