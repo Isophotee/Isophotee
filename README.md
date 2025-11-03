@@ -92,10 +92,6 @@ Here are some of the projects I've built while learning:
 ### 🔨 The Tools I usually use on and off:
 - **Unity**
 - **Visual Studio / Visual Studio Code**
-- **Figma**
-- **Paint.net**
-- **Blender**
-- 
 
 ---
 
